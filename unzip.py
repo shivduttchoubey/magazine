@@ -3,8 +3,8 @@ import zipfile
 import re
 
 # 🔧 Set paths
-ZIP_FILE = r"C:\Users\shivd\Downloads\NFSU_academic\zippy.zip"
-OUTPUT_FOLDER = r"C:\Users\shivd\Downloads\NFSU_academic\newone"
+ZIP_FILE = r"path"
+OUTPUT_FOLDER = r"path"
 
 def sanitize_path(path):
     """
